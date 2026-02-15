@@ -33,8 +33,10 @@ Upload the following files directly to your repository via the browser:
 ---
 
 ## 📝 Project Details
-**Selected Ethiopian App:** > [Name of App Here]
+**Selected Ethiopian App:** > Hulugram Messanger
 
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
-> [Your Answer Here]
+> Figma  link https://www.figma.com/design/lkNST1b6Y5LUaL5Y35ceiR/hulugram-messanger?node-id=0-1&p=f&t=8Y93J7hWWhctprIr-0
+
+> preview link   https://www.figma.com/proto/lkNST1b6Y5LUaL5Y35ceiR/hulugram-messanger?node-id=3-7&p=f&t=8Y93J7hWWhctprIr-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A7
